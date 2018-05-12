@@ -1,0 +1,63 @@
+_repo: ZadigOr-The-Book-of-Fate_18972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Voltaire
+    - http://en.wikipedia.org/wiki/Voltaire
+description: "Zadig ou la Destinée (Zadig, or The Book of Fate; 1747) is a novella\
+  \ and work of philosophical fiction by the Enlightenment writer Voltaire. It tells\
+  \ the story of Zadig, a philosopher in ancient Babylonia. The author does not attempt\
+  \ any historical accuracy, and some of the problems Zadig faces are thinly disguised\
+  \ references to social and political problems of Voltaire's own day.\nIt was originally\
+  \ published as Memnon in Amsterdam (with a false imprint of London given) and first\
+  \ issued under its more familiar title in 1748.\nThe book makes use of the Persian\
+  \ tale The Three Princes of Serendip. It is philosophical in nature, and presents\
+  \ human life as in the hands of a destiny beyond human control. Voltaire challenges\
+  \ religious and metaphysical orthodoxy with his presentation of the moral revolution\
+  \ taking place in Zadig himself. Zadig is one of Voltaire's most celebrated works\
+  \ after Candide. Many literary critics have praised Voltaire's use of contradiction\
+  \ and juxtaposition.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18972'
+  wikidata: Q140057
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- 18th century'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcsh 'Political fiction, French'
+- !lcc 'PQ'
+title: Zadig; Or, The Book of Fate
+url: http://www.gutenberg.org/ebooks/18972
+wikipedia:
+- https://et.wikipedia.org/wiki/Zadig
+- https://eo.wikipedia.org/wiki/Zadigo
+- https://ar.wikipedia.org/wiki/%D8%B5%D8%A7%D8%AF%D9%82_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://pt.wikipedia.org/wiki/Zadig
+- https://fi.wikipedia.org/wiki/Zadig
+- https://de.wikipedia.org/wiki/Zadig
+- https://fr.wikipedia.org/wiki/Zadig
+- https://pl.wikipedia.org/wiki/Zadig
+- https://en.wikipedia.org/wiki/Zadig
+- https://it.wikipedia.org/wiki/Zadig
+- https://th.wikipedia.org/wiki/%E0%B8%8B%E0%B8%B2%E0%B8%94%E0%B8%B5%E0%B8%81
+- https://el.wikipedia.org/wiki/%CE%96%CE%B1%CE%BD%CF%84%CE%AF%CE%B3%CE%BA_%CE%AE_%CE%A4%CE%BF_%CF%80%CE%B5%CF%80%CF%81%CF%89%CE%BC%CE%AD%CE%BD%CE%BF
+- https://ca.wikipedia.org/wiki/Zadig
+- https://sv.wikipedia.org/wiki/Zadig
+- https://he.wikipedia.org/wiki/%D7%96%D7%90%D7%93%D7%99%D7%92
