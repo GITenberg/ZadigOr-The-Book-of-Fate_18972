@@ -29,6 +29,8 @@ description: "Zadig ou la Destinée (Zadig, or The Book of Fate; 1747) is a nove
   \ taking place in Zadig himself. Zadig is one of Voltaire's most celebrated works\
   \ after Candide. Many literary critics have praised Voltaire's use of contradiction\
   \ and juxtaposition.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18972#ZadigOr-The-Book-of-Fate
 gutenberg_issued: '2006-08-03'
 gutenberg_type: Text
 identifiers:
